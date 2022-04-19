@@ -1,0 +1,5 @@
+Method: A thread per matrix
+row= 3 col= 1
+2660 
+6740 
+10820 
