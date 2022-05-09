@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1648146506 source:/media/salah/01D769BFB6545890/College/2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<stdbool.h>
+	<dirent.h>
+	<errno.h>
+	<signal.h>
+	<sys/wait.h>
+	<sys/resource.h>
+	<time.h>
+
